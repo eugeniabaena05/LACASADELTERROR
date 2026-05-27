@@ -2,6 +2,7 @@
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
+<img align="center" src="fondo menu.png" width="300" height=auto alt="Logotipo"/>
 
 
 # 1 Datos 
