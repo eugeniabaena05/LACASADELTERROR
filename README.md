@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (LA CASA DEL TERROR)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : La casa del terror
 
 **Web:**  
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Mª Eugenia Baena Alaminos
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
