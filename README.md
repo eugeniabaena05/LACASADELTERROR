@@ -16,23 +16,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Mi juego es una experiencia de terror en la que el jugador debe explorar un entorno inquietante mientras distintos objetos comienzan a desaparecer misteriosamente. A lo largo de la aventura, tendrá que encontrar pistas, recuperar cosas perdidas y descubrir llaves ocultas para desbloquear nuevas zonas y finalmente escapar antes de que sea demasiado tarde.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego de terror
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : <img alingn="center" src="fondo menu.png" width="300" heighy=auto alt="Logotipo"/>
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 1920×1080 aprox (algunas varian)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Probado en:**   PC, ich.io, Windows, webs...
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 53,2MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
