@@ -104,8 +104,7 @@ Solo consiguiendo las tres llaves será posible abrir la salida y escapar de la 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+<img align="center" src="IMG_4689.JPG" width="300" height=auto alt="Esquema"/>
 
 
 
@@ -115,16 +114,33 @@ Solo consiguiendo las tres llaves será posible abrir la salida y escapar de la 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+### Metodología de desarrollo
+
+1. **Planificación**
+   Definir la historia, el objetivo principal del jugador y las mecánicas básicas, como explorar, encontrar objetos desaparecidos y conseguir llaves para escapar.
+
+2. **Diseño del escenario**
+   Crear mapas y ambientes de terror con zonas oscuras, sonidos inquietantes y objetos interactivos que aumenten la tensión.
+
+3. **Programación de mecánicas**
+   Implementar el movimiento del jugador, el sistema de interacción, la desaparición de objetos, la búsqueda de llaves y las puertas bloqueadas.
+
+4. **Diseño visual y sonoro**
+   Añadir iluminación, efectos visuales y música de suspenso para mejorar la atmósfera de miedo y mantener la inmersión.
+
+5. **Pruebas y optimización**
+   Revisar errores, equilibrar la dificultad y optimizar el rendimiento del juego para garantizar una experiencia fluida.
+
+6. **Versión final**
+   Realizar ajustes finales, mejorar detalles y preparar el juego para su publicación o presentación.
+
 
 
 
 ## Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**Investigación de campo**
+Para empezar mi idea principal era hacer un juego de terror, en el cual iban desapareciendo cosas, y el jugador como espectador iba adivinando que había desaparecido. Después le añadí ese mayordomo, para meterle narración al juego y más dramatismo, además con el minijuego de llaves para buscarle una solución o darle un final al juego.
 
 
 
@@ -184,20 +200,32 @@ Pienso que he logrado lo que esperaba, sobretodo mi idea principal, además nunc
 
 **Artículos y blogs** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+### Referencia de inspiración del juego
+
+Tu juego puede tomar inspiración de títulos de terror y exploración como:
+
+* Silent Hill 2 — por su ambiente de tensión, exploración y misterio.
+* Amnesia: The Dark Descent — por la sensación de miedo constante y búsqueda de objetos.
+* Outlast — por la exploración en lugares oscuros y la necesidad de escapar.
+* Resident Evil 7: Biohazard — por el uso de llaves, acertijos y exploración para avanzar.
+
+### Ejemplo de referencia
+
+“Este juego está inspirado en experiencias de terror psicológico y supervivencia similares a *Silent Hill 2* y *Amnesia: The Dark Descent*, donde el jugador debe explorar escenarios inquietantes, resolver acertijos y encontrar objetos clave para escapar.”
+
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Imágenes:
+  <img align="center" src="Mayordomo.PNG" width="300" height=auto alt="Mayordomo"/>
+* Tipografía: Stranger back in the Night
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
+- Godot Engine 4.6
+  
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 https://creativecommons.org/licenses/?lang=es
 
 * logos en https://creativecommons.org/mission/downloads/
