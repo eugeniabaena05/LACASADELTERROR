@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MI Proyecto(nombre)
 
-**Web:**   (url github.io)
+**Web:**  
 
 **Autor:**  (Nombre apellidos) 
 
@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](WalkingGirl_front01.png)
+![fondo](fondo menu.png)
 
 # 2. Memoria del proyecto 
 
