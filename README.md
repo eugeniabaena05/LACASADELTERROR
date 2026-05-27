@@ -43,50 +43,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-
-**Web:**   (url github.io)
-
-**Autor:**  (Mª Eugenia Baena Alaminos) 
-
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
-
-**Resumen** : La Casa del Terror es un juego de misterio y terror donde los jugadores deberán explorar una casa oscura y llena de secretos mientras buscan objetos que desaparecen poco a poco. Cada habitación guarda pistas, sorpresas y desafíos que pondrán a prueba la memoria y la atención del jugador.
-
-A medida que avanza la partida, los objetos cambian de lugar o desaparecen completamente, creando una experiencia tensa e impredecible. El objetivo es encontrar todas las cosas antes de que sea demasiado tarde y descubrir qué ocurre realmente dentro de la casa.
-
-Características:
-
-Ambiente de terror inmersivo.
-Objetos ocultos que desaparecen dinámicamente.
-Exploración de habitaciones misteriosas.
-Efectos de sonido y tensión constante.
-Experiencia corta pero intensa..
-
-**Estilo/género:**  Juego de terror
-
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
-
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-
-**Fecha** : 28/05/2026
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
